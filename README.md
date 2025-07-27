@@ -41,7 +41,7 @@ This repository demonstrates various software design patterns using JAVA, organi
 - [**Strategy**](src/BehavioralDesignPatterns/Strategy/)  
   Defines a family of algorithms, encapsulates each one, and makes them interchangeable.
 
-- [**Template Method**](src/BehavioralDesignPatterns/TemplateMethod/)  
+- [**Template Method**](src/BehavioralDesignPatterns/Template/)  
   Defines the skeleton of an algorithm, deferring some steps to subclasses.
 
 - [**Visitor**](src/BehavioralDesignPatterns/Visitor/)  
@@ -57,7 +57,7 @@ This repository demonstrates various software design patterns using JAVA, organi
 - [**Builder**](src/CreationalDesignPatterns/Builder/)  
   Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
 
-- [**Factory Method**](src/CreationalDesignPatterns/FactoryMethod/)  
+- [**Factory Method**](src/CreationalDesignPatterns/Factory/)  
   Defines an interface for creating an object, but lets subclasses decide which class to instantiate.
 
 - [**Prototype**](src/CreationalDesignPatterns/Prototype/)  
