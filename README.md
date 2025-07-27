@@ -17,7 +17,7 @@ This repository demonstrates various software design patterns using JAVA, organi
 
 ### Behavioral Patterns
 
-- [**Chain of Responsibility**](src/BehavioralDesignPatterns/ChainOfResponsibility/)  
+- [**Chain of Responsibility**](src/BehavioralDesignPatterns/Chain_Of_Responsibility/)  
   Passes a request along a chain of handlers, allowing each handler to process the request or pass it along.
 
 - [**Command**](src/BehavioralDesignPatterns/Command/)  
