@@ -8,6 +8,7 @@ public class EmailSubscriber implements Subscriber {
     public EmailSubscriber(String email){
         this.email = email;
     }
+    @Override
     public void update(String video){
         System.out.println("Sending Notification for the latest video : "+ video + " via email to :"+ this.email);
     }
